@@ -12,4 +12,8 @@ Para llevar a cabo lo arriba mencionado he usado el método de scraping por sele
 
 Teniendo en cuenta ya esta variable he procedido a añadir otra más. Esta vez la de renta familiar por estado. Esta variable la he obtenido por el método de scraping de beautifulsoup.
 
-Finalmente me he descargado otro CSV con varias columnas.Aquí he tenido mis dudas si dejar dos dataframes que los podría unir en SQL o si por el contrario dejaba solo un dataframe pero añadiendole las columnas del segundo dataframe. Al final he optado por la última ya que uno de mis fines era aprender ha hacer correlaciones por lo que he juntado las columna que queria en este caso la tasa de alcoholemia al dataframe original.
+Finalmente me he descargado otro CSV con varias columnas.Aquí he tenido mis dudas si dejar dos dataframes que los podría unir en SQL o si por el contrario dejaba solo un dataframe pero añadiendole las columnas del segundo dataframe. Al final he optado por la última ya que uno de mis fines era aprender ha hacer correlaciones por lo que he juntado las columna que queria en este caso la tasa de alcoholemia al dataframe original.Quedando una tabla tal que así:
+
+
+
+
