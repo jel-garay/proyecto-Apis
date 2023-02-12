@@ -8,6 +8,9 @@ Me pareciá curioso comprobar si ciertos aspectos o variables podrían afectar a
 
 Partiendo del dataset original lo primero que se me ocurrió fue añadir una columna de ratio de crimenes por estado. Además he obtenido el link de una imagen en la que sale el mapa de los estados unidos con sus estados coloreados por tasa de crimenes.
 
+![image](https://user-images.githubusercontent.com/117199136/218307965-d47ce7f2-7a5d-4e83-8085-943aacbfd4fa.png)
+
+
 Para llevar a cabo lo arriba mencionado he usado el método de scraping por selenium bien para la fotografia bien para la obtención de la columna requerida.Una vez he obtenido los datos al no estar correctamente los he limpiado mediante la formula 'replace' quitando todo tipo de espacios y números que no necesitaba.
 
 Teniendo en cuenta ya esta variable he procedido a añadir otra más. Esta vez la de renta familiar por estado. Esta variable la he obtenido por el método de scraping de beautifulsoup.
