@@ -14,6 +14,9 @@ Teniendo en cuenta ya esta variable he procedido a añadir otra más. Esta vez l
 
 Finalmente me he descargado otro CSV con varias columnas.Aquí he tenido mis dudas si dejar dos dataframes que los podría unir en SQL o si por el contrario dejaba solo un dataframe pero añadiendole las columnas del segundo dataframe. Al final he optado por la última ya que uno de mis fines era aprender ha hacer correlaciones por lo que he juntado las columna que queria en este caso la tasa de alcoholemia al dataframe original.Quedando una tabla tal que así:
 
+![image](https://user-images.githubusercontent.com/117199136/218306324-9e211725-a604-472e-b279-9a02540ab188.png)
+
+
 
 
 
