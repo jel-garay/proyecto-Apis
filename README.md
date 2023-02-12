@@ -16,6 +16,11 @@ Finalmente me he descargado otro CSV con varias columnas.Aquí he tenido mis dud
 
 ![image](https://user-images.githubusercontent.com/117199136/218306324-9e211725-a604-472e-b279-9a02540ab188.png)
 
+Teniendo ya la tabla empiezo ha hacer mis cabalas. Como he indicado más arriba había dudado de si hacer las relaciones en SQL o mediante correlaciones y bucles en Pandas y al final decicí por esto último ya que el fin de semana pasado en el proyecto de SQL profundizamos bastante el tema.
+
+Como podeís observar en la primera de las correlaciones la conclusion es que ni los asesinatos ni la renta de las familias influyen en el consumo de alcohol al tener una correcilacion cercana a 0. 
+En cambio los asesinatos tienen una correlación más baja con la renta por lo que a más renta menos asesinatos(también tiene lógica).
+
 
 
 
