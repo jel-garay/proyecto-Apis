@@ -21,6 +21,7 @@ Teniendo ya la tabla empiezo ha hacer mis cabalas. Como he indicado más arriba 
 Como podeís observar en la primera de las correlaciones la conclusion es que ni los asesinatos ni la renta de las familias influyen en el consumo de alcohol al tener una correcilacion cercana a 0. 
 En cambio los asesinatos tienen una correlación más baja con la renta por lo que a más renta menos asesinatos(también tiene lógica).
 
+![image](https://user-images.githubusercontent.com/117199136/218307345-db39b386-6679-4066-977c-2d6db360c1e2.png)
 
 
 
