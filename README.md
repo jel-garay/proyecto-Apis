@@ -23,6 +23,19 @@ En cambio los asesinatos tienen una correlación más baja con la renta por lo q
 
 ![image](https://user-images.githubusercontent.com/117199136/218307345-db39b386-6679-4066-977c-2d6db360c1e2.png)
 
+Añado otra de mis conclusiones con otra correlación:
+
+![image](https://user-images.githubusercontent.com/117199136/218307692-4c3b5b25-9cdd-4609-9253-331738db67b9.png)
+
+Conclusion la tasa de crimen no tiene tanta correlacion con la tasa de alcohol como se pensaba.
+
+
+Y para finalizar hago un bucle que me relaciones ciertas variables:
+
+![image](https://user-images.githubusercontent.com/117199136/218307775-c9d5cfe8-cfbf-43da-bb95-ce178a7bceca.png)
+
+
+
 
 
 
