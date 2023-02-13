@@ -37,6 +37,9 @@ Y para finalizar hago un bucle que me relaciones ciertas variables:
 
 ![image](https://user-images.githubusercontent.com/117199136/218307775-c9d5cfe8-cfbf-43da-bb95-ce178a7bceca.png)
 
+Y en SQL quedaría tañ que así:
+
+![image](https://user-images.githubusercontent.com/117199136/218469182-0472f5db-ffef-44cd-a21f-3c18c5ea5d9f.png)
 
 
 
